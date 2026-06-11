@@ -149,10 +149,87 @@ deleting the frame and keeping the payload.
 
 ---
 
-## Suggested order of work
+## 6. Tic E — Definition by negation: "Not the X. The Y." / "Not X. Not Y. Z." (310 uses)
+
+This is the manuscript's signature rhythm and its biggest tic by an order of magnitude:
+**310 sentence-initial "Not…" constructions** across the 70 chapters (about one every 700 words),
+including **19 stacked runs** ("Not X. Not Y. Z.") and **28 comma-chain variants**
+("not X, not Y"). Densest chapters: B1 ch. 9 (15), B1 ch. 26 (13), B2 ch. 3 (11),
+B1 ch. 7 (10), B2 ch. 11 (10).
+
+**Do not purge this one.** It powers several of the book's best beats — the construction *is*
+the house style. The problem is dilution: at this frequency, the form stops registering by
+mid-book, which taxes exactly the moments that need it ("A knock."). Target a ~30–40% global
+reduction using three rules:
+
+1. **The negation must buy information** — name what the reader would otherwise have assumed.
+   "Not deflected. Stopped." passes (you'd assume deflection). "Not idly." fails (nobody assumed idle).
+2. **Once per scene.** When two land within a page, keep the one with the higher-stakes payload
+   and convert the other to a direct statement.
+3. **Never re-state what was just stated.** The redundancy loop — "his voice was flat… Not angry,
+   not resigned. Flat." — says *flat* twice and *not-flat* twice. Cut the middle.
+
+### Protected — do not touch in any pass
+
+| Location | Line | Why |
+|----------|------|-----|
+| B1 ch. 1 | "Not a voice. Not words. A warmth…" | Naika's fragment — the series' first negation, perfectly placed. |
+| B1 ch. 7 | "Not deflected. Stopped." | Two words doing a paragraph's work. |
+| B1 ch. 12 | "Not treasure. Not coins. Scales." | The dragon reveal. |
+| B1 ch. 15 | "Not behind him. Beside him." | Muse's whole arc in four words. |
+| B1 ch. 26 | "Not hurried. Not a fist pounding in desperation… A knock." | The best horror beat in the book — every other cut on this list exists to protect this one. |
+| B1 ch. 26 | "Not discouraged. Taboo." / "Not the fighting, not the defeating. The keeping." | Uthesia's confession hinges. |
+| B2 ch. 2 | "Not strong. Not powerful. Those words implied a scale he existed beyond." | The Orsted thesis. |
+| B2 ch. 3 | "Not flickered. Not faded. Died, instantly…" | The flame-death — earns the stack. |
+| B2 ch. 3 | "Not unlikely. Impossible." | The logic beat that almost beats the Wendigo. |
+| B2 ch. 11 | "Not frozen dead. Not the slow, quiet death… Violent dead." | Glimmerhold in three sentences. |
+| B2 ch. 19 | "Not sorry for the maid. Not sorry for leaving… Just sorry." | The reunion's center of gravity. |
+
+### Change these (15)
+
+| # | Location | Find | Suggested fix |
+|---|----------|------|---------------|
+| 1 | B1 ch. 9 | `Not angry, not challenging, confused` | Previous sentence already says "Genuinely confused." Merge: "Genuinely confused — the look of being told water flows uphill." |
+| 2 | B1 ch. 9 | `Not idly. Muse went` | "They didn't wait idly. Muse went to the sick." (Or cut the fragment entirely — the next sentences show it.) |
+| 3 | B1 ch. 9 | `Not angry, not resigned.` | Voice was already called flat in the prior clause, and "Flat." follows. Cut the negations: "…his voice was flat in a way Gormund hadn't heard before. The sound of a door closing." |
+| 4 | B1 ch. 12 | `Not loud. Not the voice` | Chapter has three stacked runs; keep "Not pain…" and "Not treasure…", convert this one: "Quiet — none of the brash, overstuffed volume of a teenager who thought the world owed her a stage. Flat. Measured." |
+| 5 | B1 ch. 15 | `Not the easy, amused breathing` | Redundancy loop ("breathing hard now… Hard."). "Andromalius was breathing hard now — none of the easy amusement from earlier." |
+| 6 | B1 ch. 24 | `Not gradually. Not the slow progression` | Verbatim "Not gradually" opener also used at B1 ch. 9 (keep that one — Cain's collapse) and B1 ch. 28. Here: "It came with no gradient — none of the slow progression they'd felt since Velldale… This was a line." |
+| 7 | B1 ch. 26 | `Not a question.` (2 hits in this chapter) | Identical tag twice in one conversation; keep the first ("Ki is internal"), cut the second — the context already implies it. |
+| 8 | B1 ch. 26 | `Not the cold of the cabin` | Third section-opener negation in one chapter. "A different cold from the cabin, the bridge, the road — deeper, internal, the cold of a body running out of ways to tell alive from not." |
+| 9 | B1 ch. 28 | `Not gradually, not with distance` | Third "Not gradually" (see #6). "The screaming didn't fade with distance. It cut off, mid-cry, as if someone had closed a door on it." |
+| 10 | B1 ch. 28 | `Not casually. She drove` | Merge with the preceding sentence: "Uthesia kicked the chair — drove her foot into it with a force that sent it across the room…" |
+| 11 | B2 ch. 3 | `Not ahead, not behind, not to either side` | Two "gone" negation-builds within a page ("Not obscured, gone." is the keeper). "Cain was gone — ahead, behind, either side, nothing. As if the storm had closed its hand around him." |
+| 12 | B2 ch. 3 | `Not fresh, not old.` | Low-stakes description. "Neither fresh nor old — thick, dark, half-frozen." |
+| 13 | B2 ch. 11 | `Not dramatically, not yet, but enough` | Pairs with B1 ch. 7's "Not dramatically, not the killing cold" (keep that one). Here: "The chill receded by degrees — not enough to call warm, but the cold shifted from aggressive to tolerable." |
+| 14 | B2 ch. 11 | `Not steel, not mithril` | Second negation-build to the same "Plants." punchline in one scene (keep the first, "Not a crate of plants among other things"). Cut this sentence — the surrounding lines already carry it. |
+| 15 | B1 ch. 9 + B1 ch. 28 | `Not an accusation. An observation` / `Not accusation. Observation.` | Same formula, both times tagging **Cain**. See "decide intentionality" below. |
+
+### Decide intentionality (2)
+
+- **"Not an accusation. An observation."** appears twice, both attached to Cain (B1 ch. 9, B1 ch. 28
+  — the second compressed to "Not accusation. Observation."). As a deliberate Cain-ism it works —
+  he is the character who classifies speech acts. If intentional, keep both *and* consider letting
+  another character notice it once ("He does that," Gormund could mutter). If not, vary the ch. 28 use.
+- **The stacked-run cadence as Wendigo signature.** The horror chapters (B1 ch. 26–28, B2 ch. 3–4)
+  carry the heaviest concentration of "Not X. Not Y." stacks, and it genuinely reads as the arc's
+  drumbeat. A defensible alternative to cutting within those chapters: thin the construction
+  *everywhere else* and let density itself mark the Wendigo's presence. (If you take this route,
+  items #8–12 above become optional; #1–7 and #13–14 stand regardless.)
+
+### Companion habit (no action needed yet, just awareness)
+
+The resolution half of this construction — a sentence-initial **"Just X."** fragment ("Just talk."
+"Just sorry." "Just stillness.") — appears 28 times and is part of the same rhythm family. The
+keeps/cuts above will pull its frequency down automatically; no separate pass needed unless two
+"Just…" fragments land within a page.
+
+---
+
 
 1. The maid paragraph (15 minutes, highest value per word in the manuscript).
 2. The two appositive clusters (B1 ch. 27, B2 ch. 19).
-3. Tic A change-list top to bottom (the B1 ch. 20 triple and the painting-simile triplet first).
-4. Tic B's three swaps.
-5. The two "decide intentionality" items (the predator-laugh rhyme; the painting similes) — these are choices, not errors.
+3. Tic E's redundancy loops and verbatim repeats (#1, #3, #5–7, #9 — these read as errors, not style).
+4. Tic A change-list top to bottom (the B1 ch. 20 triple and the painting-simile triplet first).
+5. Tic B's three swaps; Tic C's one swap; the rest of Tic E's list.
+6. The four "decide intentionality" items (predator-laugh rhyme; painting similes; the Cain-ism; the Wendigo cadence) — these are choices, not errors.
