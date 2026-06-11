@@ -1,5 +1,11 @@
 # Permafrost — To-Fix #1: The Maid Line & Construction Tics
 
+> **Status (Revision 3):** All change-list items below (Tics A–E, 40 edits) have been applied to
+> the Revision 3 manuscripts. The maid scene was fixed by the author in Revision 2. Still open:
+> the four **"decide intentionality"** items (predator-laugh rhyme, painting similes, the Cain-ism
+> "Not an accusation. An observation.", and the Wendigo stacked-run cadence) — these are
+> authorial choices and were deliberately left untouched.
+
 All **Find** strings below are quoted verbatim from the manuscripts and deliberately avoid
 apostrophes, so they'll work in Word's Find pane (curly vs. straight quotes can break a search).
 "Keep" lists are included so the good uses don't get purged along with the tics.
